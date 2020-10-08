@@ -2,7 +2,6 @@
 
 This module uses Kubernetes and Helm to create a kubernetes PVC using a COS bucket as storage. Optionally, you can bring your own COS instance.
 
-![arch image](../.docs/cos_pvc.png)
 ---
 
 ## Table of Contents
